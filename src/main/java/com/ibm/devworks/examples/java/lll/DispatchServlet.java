@@ -46,5 +46,9 @@ public class DispatchServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
+	
+	public double sum (int a, int b) {
+    	return a+b;
+    }
 
 }
