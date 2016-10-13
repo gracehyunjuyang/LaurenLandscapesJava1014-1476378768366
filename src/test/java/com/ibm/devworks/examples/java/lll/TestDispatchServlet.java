@@ -9,6 +9,6 @@ public class TestDispatchServlet {
 		DispatchServlet chat = new DispatchServlet();
 		
 		double result = chat.sum(10,50);
-		assertEquals(60, result, 0);
+		assertEquals(70, result, 0);
 	}
 }
