@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> ${myapp.title} </title>
+	<%-- <title> ${myapp.title} </title> --%>
+	<title> Lauren's Lovely Landscapes </title>
 	<meta charset="utf8">  
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -63,7 +64,8 @@
       <div class="navbar-inner">
         <div class="container">
           
-          <a class="brand pull-left" href="/home"><em>${myapp.title} </em></a>
+<%--           <a class="brand pull-left" href="/home"><em>${myapp.title} </em></a> --%>
+          <a class="brand pull-left" href="/home"><em>Lauren's Lovely Landscapes</em></a>
 	  
           <div class="nav-collapse collapse">
            
@@ -77,7 +79,9 @@
   <tr> -->
   <div class="hero-unit">
   <div>
-  <h2 class="text-center"><em>${myapp.title}</em></h2> </div>
+<%--   <h2 class="text-center"><em>${myapp.title}</em></h2> </div> --%>
+<h2 class="text-center"><em>Lauren's Lovely Landscapes</em></h2> </div> 
+  
   <br/>
   
  		<p>

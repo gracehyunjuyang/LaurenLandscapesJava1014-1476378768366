@@ -18,7 +18,7 @@ public class testWebsiteTitle {
 	 */
 	@Test
 	public void testGetTitle() {
-		assertEquals("Lauren's Lovely Landscapes", new WebsiteTitle().getTitle());
+		assertEquals("Lauren's Lovely Landscapesss", new WebsiteTitle().getTitle());
 	}
 
 	
