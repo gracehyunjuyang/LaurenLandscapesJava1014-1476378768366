@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  # name: sk-java-devops-1013
-  # host: sk-java-devops-1013
+  #name: sk-java-devops-1013
+  #host: sk-java-devops-1013
   disk_quota: 1024M
