@@ -2,7 +2,7 @@
 <html>
 <head>
 	<%-- <title> ${myapp.title} </title> --%>
-	<title> Lauren's Lovely Landscapes </title>
+	<title>Grace's Lovely Landscapes </title>
 	<meta charset="utf8">  
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
