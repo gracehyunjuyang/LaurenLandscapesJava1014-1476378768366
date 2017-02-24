@@ -80,7 +80,7 @@
   <div class="hero-unit">
   <div>
 <%--   <h2 class="text-center"><em>${myapp.title}</em></h2> </div> --%>
-<h2 class="text-center"><em>John's Lovely Landscapes</em></h2> </div> 
+<h2 class="text-center"><em>Grace's Lovely Landscapes</em></h2> </div> 
   
   <br/>
   
